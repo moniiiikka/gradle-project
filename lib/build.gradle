@@ -17,7 +17,7 @@ repositories {
     jcenter()
 }
 
-/*
+
 sonarqube {
   properties {
     property "sonar.projectName","Gradle-sonar"
@@ -26,7 +26,7 @@ sonarqube {
 	property "sonar.password" , "mangal@123"
   }
 }
-*/
+
 
 dependencies {
     // Use JUnit test framework.
